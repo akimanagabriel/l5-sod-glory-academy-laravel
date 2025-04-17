@@ -18,7 +18,7 @@ Follow the steps below to set up the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/akimanagabriel/l5-sod-glory-academy-laravel.git
 cd your-project
 ```
 
