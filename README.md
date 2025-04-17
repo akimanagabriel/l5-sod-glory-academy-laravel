@@ -19,7 +19,7 @@ Follow the steps below to set up the project:
 
 ```bash
 git clone https://github.com/akimanagabriel/l5-sod-glory-academy-laravel.git
-cd your-project
+cd l5-sod-glory-academy-laravel
 ```
 
 ### 2. Install PHP Dependencies
